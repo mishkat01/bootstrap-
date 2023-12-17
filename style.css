@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0
+    ;
+}
+.title{
+    text-align: center;
+    height: 36px;
+    background-color: #3C3C3C;
+    color: #fcd700;
+    font-weight: bold;
+}
+
+@media screen and (max-height: 1000px){
+    .media {
+        text-align: center;
+        
+        width: fit-content;
+    } 
+}
+
+beautify.format
